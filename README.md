@@ -10,7 +10,7 @@
 
 - 👨‍💻 [Here is My Portfolio](https://shimon-portfolio.netlify.app/)
 
-- 💬 Ask me about **Nextjs, Reactjs**
+- 💬 Ask me about **Next.js, React.js, JavaScript, Tailwind CSS, Firebase, Node.js, Express.js MongoDB**
 
 - 📫 How to reach me **Shimonuap072@gmail.com**
 
