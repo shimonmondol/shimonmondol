@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shimon Mondol</h1>
 <h2 align="center">Frontend Developer</h2>
-A passionate Frontend Developer skilled in creating responsive, user-friendly web interfaces using modern technologies like React, JavaScript, and CSS. I enjoy turning ideas into interactive, visually appealing digital experiences.
+<p>A passionate Frontend Developer skilled in creating responsive, user-friendly web interfaces using modern technologies like React, JavaScript, and CSS. I enjoy turning ideas into interactive, visually appealing digital experiences.</p>
 
 <h1>About Me</h1>
 - 🔭 I’m currently working on Frontend Developer
