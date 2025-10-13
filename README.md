@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shimon Mondol</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3>A passionate Frontend Developer skilled in creating responsive, user-friendly web interfaces using modern technologies like React, JavaScript, and CSS. I enjoy turning ideas into interactive, visually appealing digital experiences.</h3>
 
 <h1>About Me</h1>
-- 🔭 I’m currently working on **Frontend Developer**
+- 🔭 I’m currently working on Frontend Developer
 
 - 🌱 I’m currently learning **Python**
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 [Here is My Portfolio](https://shimon-portfolio.netlify.app/)
 
-- 💬 Ask me about **Next.js, React.js, JavaScript, Tailwind CSS, Firebase, Node.js, Express.js MongoDB**
+- 💬 Ask me about **Next.js, React.js, JavaScript, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me **Shimonuap072@gmail.com**
 
