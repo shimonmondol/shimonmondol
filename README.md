@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Github**
+- 👨‍💻 Check out my work: [GitHub Repositories](https://github.com/shimonmondol?tab=repositories)
 
-- 👨‍💻 [Visit my portfolio](https://shimon-portfolio.netlify.app/)
+- 👨‍💻 [Here is My Portfolio](https://shimon-portfolio.netlify.app/)
 
 - 💬 Ask me about **Nextjs, Reactjs**
 
