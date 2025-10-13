@@ -3,17 +3,17 @@
 <p>A passionate Frontend Developer skilled in creating responsive, user-friendly web interfaces using modern technologies like React, JavaScript, and CSS. I enjoy turning ideas into interactive, visually appealing digital experiences.</p>
 
 <h1>About Me</h1>
-- 🔭 I’m currently working on Frontend Developer
+- 🖥️ I’m currently working on Frontend Developer
 
-- 🌱 I’m currently learning **Python**
+- 🧑‍💻 I’m currently learning **Python**
 
-- 👨‍💻 Check out my work: [GitHub Repositories](https://github.com/shimonmondol?tab=repositories)
+- 📂 Check out my work: [GitHub Repositories](https://github.com/shimonmondol?tab=repositories)
 
-- 👨‍💻 [Here is My Portfolio](https://shimon-portfolio.netlify.app/)
+- 💼 [Here is My Portfolio](https://shimon-portfolio.netlify.app/)
 
 - 💬 Ask me about **Next.js, React.js, JavaScript, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB**
 
-- 📫 How to reach me **Shimonuap072@gmail.com**
+- ✉️ Connect Me : **Shimonuap072@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1MvE5vxOEzXM3ESUcQyqlMbBixbOt9jCO/view)
 
