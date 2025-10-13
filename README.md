@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shimon Mondol</h1>
 <h3 align="center">Frontend Developer</h3>
 
+<h1>About Me</h1>
 - 🔭 I’m currently working on **Frontend Developer**
 
 - 🌱 I’m currently learning **Python**
