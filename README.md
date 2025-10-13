@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Shimonuap072@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MvE5vxOEzXM3ESUcQyqlMbBixbOt9jCO/view?usp=sharing](https://drive.google.com/file/d/1MvE5vxOEzXM3ESUcQyqlMbBixbOt9jCO/view?usp=sharing)
+- 📄 Know about my experiences [Here is My Portfolio](https://shimon-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
