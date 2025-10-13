@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1MvE5vxOEzXM3ESUcQyqlMbBixbOt9jCO/view)
 
-Social Media <a href="https://fb.com/shimon mondol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shimon mondol" height="30" width="40" /></a> <a href="https://instagram.com/shimon mondol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shimon mondol" height="30" width="40" /></a>
+Social Media <a href="https://www.facebook.com/shimon.mondol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shimon mondol" height="30" width="40" /></a> <a href="https://instagram.com/shimon mondol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shimon mondol" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
