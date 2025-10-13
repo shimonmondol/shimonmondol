@@ -5,7 +5,7 @@
 <h1>About Me</h1>
 - 🖥️ I’m currently working on Frontend Developer
 
-- 🧑‍💻 I’m currently learning **Python**
+- 📍 I live in Dhaka, Bangladesh
 
 - 📂 Check out my work: [GitHub Repositories](https://github.com/shimonmondol?tab=repositories)
 
