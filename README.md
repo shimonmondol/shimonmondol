@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Next.js, React.js, JavaScript, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB**
 
-- ✉️ Connect Me : [My Linkedin](https://www.linkedin.com/in/shimon-mondol-b92004372/) or Shimonuap072@gmail.com
+- 🔗 ✉️ Connect Me : [My Linkedin](https://www.linkedin.com/in/shimon-mondol-b92004372/) or Shimonuap072@gmail.com
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1MvE5vxOEzXM3ESUcQyqlMbBixbOt9jCO/view)
 
