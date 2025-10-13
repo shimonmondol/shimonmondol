@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shimon Mondol</h1>
-<p>Frontend Developer</p>
+<h3 align="center">Frontend Developer</h3>
 A passionate Frontend Developer skilled in creating responsive, user-friendly web interfaces using modern technologies like React, JavaScript, and CSS. I enjoy turning ideas into interactive, visually appealing digital experiences.
 
 <h1>About Me</h1>
