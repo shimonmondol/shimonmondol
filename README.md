@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 👨‍💻 All of my projects are available at [https://shimon-portfolio.netlify.app/](https://shimon-portfolio.netlify.app/)
+- 👨‍💻 Here is My Portfolio : https://shimon-portfolio.netlify.app/
 
 - 💬 Ask me about **Nextjs, Reactjs**
 
