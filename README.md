@@ -17,9 +17,8 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1MvE5vxOEzXM3ESUcQyqlMbBixbOt9jCO/view)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shimon mondol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shimon mondol" height="30" width="40" /></a>
+<h3 align="left">Socilal Media</h3>
+<p align="d-flex">
 <a href="https://fb.com/shimon mondol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shimon mondol" height="30" width="40" /></a>
 <a href="https://instagram.com/shimon mondol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shimon mondol" height="30" width="40" /></a>
 </p>
