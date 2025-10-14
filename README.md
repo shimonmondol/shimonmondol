@@ -18,6 +18,9 @@
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1MvE5vxOEzXM3ESUcQyqlMbBixbOt9jCO/view)
 
 <h2 align="left">Connect With Me : </h2>
+<p align="left">
+   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white (https://drive.google.com/file/d/1MvE5vxOEzXM3ESUcQyqlMbBixbOt9jCO/view)"/>
+</p>
 <h2 align="left">🛠️ My Tech Stack</h2>
 <h3>🌐 Frontend Development</h3>
 <p align="left">
