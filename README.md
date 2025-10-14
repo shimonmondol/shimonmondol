@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&Color=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&Color=black"/>
 </p>
 
 
