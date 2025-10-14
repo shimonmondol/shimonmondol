@@ -29,8 +29,10 @@
 </p>
 <h3>🧩 Backend & Database</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-%233C873A?style=for-the-badge&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDb-%23228B22?style=for-the-badge&logo=Mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFFF00?style=for-the-badge&logo=Firebase&logoColor=000000"/>
 </p>
 
 
