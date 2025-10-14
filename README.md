@@ -17,6 +17,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1MvE5vxOEzXM3ESUcQyqlMbBixbOt9jCO/view)
 
+<h2 align="left">🛠️ My Tech Stack</h2>
 <h3>🌐 Frontend Development</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -34,6 +35,6 @@
   <img src="https://img.shields.io/badge/MongoDb-%23228B22?style=for-the-badge&logo=Mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFFF00?style=for-the-badge&logo=Firebase&logoColor=000000"/>
 </p>
-
+<h3>🔧 Tools & Platforms</h3>
 
 
