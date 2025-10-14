@@ -19,8 +19,9 @@
 
 <h2 align="left">Connect With Me : </h2>
 <p align="left">
-   <a href="https://react.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+   <a href="mailto:shimonuap072@gmail.com">
+     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+   </a>
 </a>
 </p>
 <h2 align="left">🛠️ My Tech Stack</h2>
