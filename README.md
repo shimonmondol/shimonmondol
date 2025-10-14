@@ -19,7 +19,9 @@
 
 <h2 align="left">Connect With Me : </h2>
 <p align="left">
-   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white [My Linkedin]         (https://drive.google.com/file/d/1MvE5vxOEzXM3ESUcQyqlMbBixbOt9jCO/view)"/>
+   <a href="https://react.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</a>
 </p>
 <h2 align="left">🛠️ My Tech Stack</h2>
 <h3>🌐 Frontend Development</h3>
@@ -29,9 +31,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=000000"/>
-  <a href="https://react.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</a>
+  
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 <h3>🧩 Backend & Database</h3>
