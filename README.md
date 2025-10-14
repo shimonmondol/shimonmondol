@@ -37,10 +37,10 @@
 </p>
 <h3>🔧 Tools & Platforms</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-%233C873A?style=for-the-badge&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23FF7F50?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDb-%23228B22?style=for-the-badge&logo=Mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFFF00?style=for-the-badge&logo=Firebase&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Figma-%23FF4500?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 
