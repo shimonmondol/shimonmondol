@@ -15,7 +15,7 @@
 
 - ✉️ Gmail : Shimonuap072@gmail.com
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1MvE5vxOEzXM3ESUcQyqlMbBixbOt9jCO/view)
+- 📄 Know About My Experiences [My Resume](https://drive.google.com/file/d/1MvE5vxOEzXM3ESUcQyqlMbBixbOt9jCO/view)
 
 <h2 align="left">Connect With Me : </h2>
 <p align="left">
