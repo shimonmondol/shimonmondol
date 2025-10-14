@@ -7,11 +7,11 @@
 
 - 📍 I live in Dhaka, Bangladesh
 
-- 📂 Check out my work: [GitHub Repositories](https://github.com/shimonmondol?tab=repositories)
+- 📂 Check Out My Work: [GitHub Repositories](https://github.com/shimonmondol?tab=repositories)
 
 - 💼 [Here is My Portfolio](https://shimon-portfolio.netlify.app/)
 
-- 💬 Ask me about **Next.js, React.js, JavaScript, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB**
+- 💬 Ask Me About **Next.js, React.js, JavaScript, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB**
 
 - ✉️ Gmail : Shimonuap072@gmail.com
 
