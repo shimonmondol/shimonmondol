@@ -27,6 +27,11 @@
   <img src="https://img.shields.io/badge/React-royalblue?style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
+<h3>🧩 Backend & Database</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=HTML5&logoColor=white"/>
+</p>
 
 
 
