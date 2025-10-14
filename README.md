@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Git-%23FF7F50?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-%23FF4500?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
