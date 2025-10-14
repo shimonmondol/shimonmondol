@@ -29,7 +29,9 @@
   <img src="https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=000000"/>
- [<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>(https://react.dev/)]
+  <a href="https://react.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</a>
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 <h3>🧩 Backend & Database</h3>
