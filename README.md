@@ -18,6 +18,7 @@
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1MvE5vxOEzXM3ESUcQyqlMbBixbOt9jCO/view)
 
 <h3>🛠️ My Tech Stack</h3>
-[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[HTML5](https://img.shields.io/badge/HTML5-orange)
+
 
 
