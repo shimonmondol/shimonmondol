@@ -9,7 +9,7 @@
 
 - 📂 Check Out My Work: [GitHub Repositories](https://github.com/shimonmondol?tab=repositories)
 
-- 💼 [Here is My Portfolio](https://shimon-portfolio.netlify.app/)
+- 💼 [Here is My Portfolio](https://shimondev.netlify.app/)
 
 - 💬 Ask Me About **Next.js, React.js, JavaScript, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB**
 
