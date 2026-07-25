@@ -2,8 +2,7 @@
   <img src="https://i.ibb.co.com/rG01PbZV/Git-Hub-Banner.png" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Shimon Mondol</h1>
-<p align="center"> MERN Stack / Frontend Developer </p>
-<h2 align="center">About Me</h2>
+<h2 align="center"> MERN Stack / Frontend Developer </h2>
 <p>A passionate Frontend Developer skilled in creating responsive, user-friendly web interfaces using modern technologies like React, JavaScript, and CSS. I enjoy turning ideas into interactive, visually appealing digital experiences.</p>
 
 <h2>About Me</h2>
