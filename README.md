@@ -10,7 +10,9 @@
 
 - 📍 I live in Dhaka, Bangladesh
 
-- 📂 Check Out My Work: [GitHub Repositories](https://github.com/shimonmondol?tab=repositories)
+- 📂 <a href="https://github.com/shimonmondol?tab=repositories" target="_blank">
+  Check Out My Work: GitHub Repositories
+  </a>
 
 - 💼 [Here is My Portfolio](https://shimondev.netlify.app/)
 
