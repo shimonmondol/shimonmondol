@@ -14,7 +14,7 @@
 
 - 💼 [Here is My Portfolio](https://shimondev.netlify.app/)
 
-- 💬 Ask Me About **Next.js, React.js, JavaScript, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB**
+- 💬 Learning TypeScript to build scalable and type-safe web applications
 
 - ✉️ Gmail : shimonmondol10@gmail.com
 
