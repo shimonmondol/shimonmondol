@@ -25,6 +25,9 @@
    <a href="https://www.linkedin.com/in/shimon-mondol-b92004372/">
      <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
    </a>
+   <a href="https://www.facebook.com/shimon.mondol/">
+     <img src="[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shimon.mondol)" />
+   </a>
 </a>
 </p>
 <h2 align="left">🛠️ My Tech Stack</h2>
