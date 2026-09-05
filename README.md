@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Shimon Mondol</h1>
 <h2 align="center"> Full Stack Developer </h2>
-<p>A passionate Full Stack Developer skilled in creating responsive, user-friendly web interfaces using modern technologies like Nexts.js, TypeScript, React, JavaScript, and Tailwind CSS. I enjoy turning ideas into interactive, visually appealing digital experiences.</p>
+<p>A passionate Full Stack Developer skilled in creating responsive, user-friendly web interfaces using modern technologies like Next.js, TypeScript, React, JavaScript, and Tailwind CSS. I enjoy turning ideas into interactive, visually appealing digital experiences.</p>
 
 <h2>About Me</h2>
 - 🖥️ I’m currently working on Frontend Developer
