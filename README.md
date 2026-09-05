@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/gFtzvKnf/Github-Banner.png" />
+  <img src="https://i.ibb.co.com/KxcJ0N7d/Github-Banner.png" />
 </p>
 <h1 align="center">Hi 👋, I'm Shimon Mondol</h1>
 <h2 align="center"> MERN Stack / Frontend Developer </h2>
