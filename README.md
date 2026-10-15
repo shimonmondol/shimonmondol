@@ -6,7 +6,7 @@
 <p>A passionate Full Stack Developer skilled in creating responsive, user-friendly web interfaces using modern technologies like Next.js, TypeScript, React, JavaScript, and Tailwind CSS. I enjoy turning ideas into interactive, visually appealing digital experiences.</p>
 
 <h2>About Me</h2>
-- 🖥️ I’m currently working on Frontend Developer
+- 🖥️ I’m currently working on Full Stack Developer
 
 - 📍 I live in Dhaka, Bangladesh
 
